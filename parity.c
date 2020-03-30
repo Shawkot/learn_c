@@ -1,3 +1,4 @@
+// This program will detect even and odd number//
 #include <cs50.h>
 #include <stdio.h>
 
