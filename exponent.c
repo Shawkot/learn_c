@@ -1,4 +1,4 @@
-# learn_c
+// Give a base value and a exponent value and it will give the output//
 #include <cs50.h>
 #include <math.h>
 #include <stdio.h>
