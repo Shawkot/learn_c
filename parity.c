@@ -4,7 +4,7 @@
 
 int main(void)
 {
-    int number=get_int("input the value=");
+    int number=get_int("input the number=");
     number=number%2;
     if(number==0)
     {
